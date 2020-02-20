@@ -13,7 +13,10 @@ out1.reverse()
 print(out1)
 
 for i, p in out1:
-    
+    print(i, p)
+
+while 1:
+    pass
 
 
 
