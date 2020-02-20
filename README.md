@@ -2,6 +2,10 @@
 # GLAU TND
 use python3 for all solutions 
 
+
+ctrl + k == local commit
+ctrl + shift + k == push on github
+
 # Problem 1
 ```
 This problem was asked by Dropbox.
