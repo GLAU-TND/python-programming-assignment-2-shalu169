@@ -1,3 +1,4 @@
+# read a list of string and find chain in that given string by its first and last character
 import time
 lst = input().split()
 a = lst.pop(0)
@@ -14,3 +15,4 @@ while lst_temp:
             time.sleep(1)
 print(lst1)
 # chair racket touch height tunic
+
